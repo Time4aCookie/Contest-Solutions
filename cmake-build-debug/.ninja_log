@@ -1,0 +1,16 @@
+# ninja log v5
+2	397	1690419123277773818	CMakeFiles/untitled1.dir/relocateMarbles.cpp.o	1d4b3471702ba242
+1	418	1690419080672270460	CMakeFiles/untitled1.dir/longestAlternatingSubarray.cpp.o	95586d8f01694a81
+2	421	1690641036570529400	CMakeFiles/untitled1.dir/checkIfArrayIsGood.cpp.o	c423dd8de03d08bc
+1	456	1690419080713308112	CMakeFiles/untitled1.dir/findPrimePairs.cpp.o	c671606c3f31462c
+7	425	1688836886062894860	CMakeFiles/untitled1.dir/main4.cpp.o	27ab88b216771fa3
+1	419	1690419080672250960	CMakeFiles/untitled1.dir/alternatingSubarray.cpp.o	b24e85c23c799034
+1	336	1688395469397656957	CMakeFiles/untitled1.dir/main.cpp.o	9a0da4b3540cff91
+1	351	1689022697615462422	CMakeFiles/untitled1.dir/main3.cpp.o	eb0604fc2b88773c
+0	65	1690740655900934697	build.ninja	c10867931fe11b84
+253	280	1690731126608591534	untitled1	2f8e6d258011e63a
+1	808	1690731050442725110	CMakeFiles/untitled1.dir/neitherMinNorMax.cpp.o	9fe4748d1ad102de
+2	440	1690419080696939593	CMakeFiles/untitled1.dir/minBeautifulStrings.cpp.o	34b5a5fc52a2417d
+1	395	1688829898931910252	CMakeFiles/untitled1.dir/main2.cpp.o	6ed720030b94ecb4
+2	809	1690731050442727985	CMakeFiles/untitled1.dir/numberOfEmployeesWhoMetTarget.cpp.o	bdc7eaea38f9c55e
+1	253	1690731126580061607	CMakeFiles/untitled1.dir/countCompleteSubarrays.cpp.o	a454f8b92fe90767
